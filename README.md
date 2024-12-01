@@ -51,7 +51,7 @@ Welcome to my solutions for [Advent of Code 2020](https://adventofcode.com/2020)
    ```bash
    git clone https://github.com/ryan-c07/aoc_2020.git
    
-2. Navigate to the folder
+2. Navigate to the folder:
    ```bash
    cd aoc_2020/src
    
